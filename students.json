@@ -1,0 +1,23 @@
+{
+  "students": [
+    {
+      "code": "111",
+      "nom": "Nom111",
+      "prenom": "Prénom111",
+      "classe": "6e"
+    },
+    {
+      "code": "222",
+      "nom": "Nom222",
+      "prenom": "Prénom222",
+      "classe": "5e"
+    },
+    {
+      "code": "333",
+      "nom": "Nom333",
+      "prenom": "Prénom333",
+      "classe": "Tle"
+    }
+  ],
+  "lastUpdate": "2025-12-23T17:33:35.556Z"
+}
